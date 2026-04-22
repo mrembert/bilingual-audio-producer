@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="AI Bilingual Podcast Generator Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
 # AI Bilingual Podcast Generator: Architectural Blueprint & Governance Model
 
 [![Architecture](https://img.shields.io/badge/Pattern-Orchestration%20Director-blue)](#)
@@ -42,4 +39,3 @@ The system follows a multi-stage **Refinement & Synthesis** lifecycle:
 
 ---
 *Built to explore the intersection of Multimodal AI and Audio Engineering.*
-
